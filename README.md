@@ -58,22 +58,6 @@ Solidity
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Divyansh400&theme=tokyonight"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh400&theme=tokyo-night"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 ![snake](https://github.com/Divyansh400/Divyansh400/blob/output/github-contribution-grid-snake.svg)
