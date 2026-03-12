@@ -36,3 +36,56 @@ A platform where creators can:
 ---
 
 ## 🛠 Tech Stack
+
+Python  
+JavaScript  
+Lua  
+Node.js  
+Web3  
+Solidity
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Divyansh400&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh400&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Divyansh400&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyansh400&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake](https://github.com/Divyansh400/Divyansh400/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+
+GitHub: [https://github.com/Divyansh400](https://github.com/Divyansh400)
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy turning crazy Web3 ideas into working prototypes.
