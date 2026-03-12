@@ -2,7 +2,7 @@
 <h3 align="center">Solo Developer | Web3 Builder | Open Source Explorer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web3+Infrastructure+Explorer;Open+Source+Contributor;Building+Decentralized+Tools;Experimenting+with+New+Protocols"/>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web3+Infrastructure+Explorer;Open+Source+Contributor;Building+Decentralized+Tools;Experimenting+with+New+Protocols"/>
 </p>
 
 ---
@@ -18,15 +18,11 @@ Turn new technologies into **real tools that developers can use**.
 
 ---
 
-## 🚀 What I'm Currently Building
-
-Exploring decentralized infrastructure and building experimental tools.
-
-Current idea I'm working on:
+## 🚀 Current Projects
 
 ### 🎥 Decentralized YouTube powered by Shelby
 
-A platform where creators can:
+Creators can:
 
 • Upload videos  
 • Store content on decentralized storage  
@@ -35,14 +31,16 @@ A platform where creators can:
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Tools
 
-Python  
-JavaScript  
-Lua  
-Node.js  
-Web3  
-Solidity
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
 
 ---
 
@@ -64,12 +62,16 @@ Solidity
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect & Follow Me
 
-GitHub: [https://github.com/Divyansh400](https://github.com/Divyansh400)
+<p align="center">
+<a href="https://github.com/Divyansh400"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I enjoy turning crazy Web3 ideas into working prototypes.
+I enjoy turning crazy Web3 ideas into working prototypes.  
