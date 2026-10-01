@@ -1,5 +1,5 @@
 <h1 align="center">⚡ Hey, I'm Divyansh</h1>
-<h3 align="center">Solo Developer | Web3 Builder | Open Source Explorer</h3>
+<h3 align="center">Solo Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Web3+Infrastructure+Explorer;Open+Source+Contributor;Building+Decentralized+Tools;Experimenting+with+New+Protocols"/>
@@ -50,7 +50,6 @@ Creators can:
 
 <p align="center">
 <a href="https://github.com/Divyansh400"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://x.com/nubfuryyyy85198"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
 </p>
 
