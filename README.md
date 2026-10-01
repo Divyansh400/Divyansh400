@@ -7,43 +7,6 @@
 
 ---
 
-## 🧠 About Me
-
-I'm a solo developer who enjoys digging deep into **Web3 infrastructure** and building tools that help other developers.
-
-I love experimenting with **new protocols**, creating **proof-of-concept projects**, and contributing to **open source ecosystems**.
-
-My goal is simple:  
-Turn new technologies into **real tools that developers can use**.
-
----
-
-## 🚀 Current Projects
-
-### 🎥 Decentralized YouTube powered by Shelby
-
-Creators can:
-
-• Upload videos  
-• Store content on decentralized storage  
-• Stream directly from the network  
-• Monetize content without centralized platforms  
-
----
-
-## 🛠 Tech Stack & Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Web3-000000?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
-
----
-
 
 
 ## 🌐 Connect & Follow Me
@@ -52,9 +15,3 @@ Creators can:
 <a href="https://github.com/Divyansh400"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </p>
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning crazy Web3 ideas into working prototypes.  
